@@ -1,0 +1,27 @@
+body {
+font-family: Arial;
+font-size: 14px;
+}
+img {
+	
+	padding: 4px;box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);border: 1px solid #FFFFFF;border-radius: 4px; margin: 4px;
+}
+.frmImageUpload {
+background-color: #cacfd26b;
+width:1220px;
+padding:10px;
+}
+.frmImageUpload label{
+font-weight: bold;
+color: #A0A0A0;
+}
+.btnSubmit {
+background-color: #3FA849;
+padding:4px;
+border: #3FA849 1px solid;
+color: #FFFFFF;
+}
+.inputFile {
+padding: 3px;
+background-color: #FFFFFF;
+}
